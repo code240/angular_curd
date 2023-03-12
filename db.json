@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Vipin",
+      "address": "Delhi",
+      "gender": "Male",
+      "occupation": "Software Developer"
+    },
+    {
+      "id": 2,
+      "name": "Kunal",
+      "address": "MP",
+      "gender": "Male",
+      "occupation": "Tester"
+    },
+    {
+      "id": 3,
+      "name": "Sachin",
+      "address": "Rewari",
+      "gender": "Male",
+      "occupation": "Designer"
+    },
+    {
+      "name": "Pankaj tripathi",
+      "address": "Mumbai",
+      "gender": "Male",
+      "occupation": "Full Stack Developer",
+      "id": 4
+    },
+    {
+      "name": "Rishabh Sharma",
+      "address": "Maharastra",
+      "gender": "Male",
+      "occupation": "Chef",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
